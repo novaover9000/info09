@@ -1,0 +1,27 @@
+body{
+	background-color: orange;
+    color: purple
+}
+
+p {
+    text-indent: 30px;
+  }
+
+h1,h2, h3{
+	color:yellow
+}
+
+h1{
+    text-align: center;
+    text-decoration: overline;
+}
+
+h2{
+    text-align: right;
+    text-decoration: underline;
+}
+
+h3{
+    text-align: left;
+    text-decoration: line-through;
+}
